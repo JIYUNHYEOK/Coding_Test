@@ -2,7 +2,7 @@
 ______________________________________________________
 - Greedy (탐욕)
 - Implementation (구현)
-- Searching(DFS/BFS) (탐색 BFS,DFS)
+- Searching(DFS/BFS) (탐색 DFS,BFS)
 - Sorting (정렬)
 - Binary Search (이진 탐색)
 - Dynamic Programming (동적 프로그래밍)
