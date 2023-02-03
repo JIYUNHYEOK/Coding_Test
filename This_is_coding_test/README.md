@@ -3,3 +3,4 @@
 #### 04. [Implementation](https://github.com/JIYUNHYEOK/Coding_Test/tree/main/This_is_coding_test/04_Implementation)
 #### 05. [DFS/BFS](https://github.com/JIYUNHYEOK/Coding_Test/tree/main/This_is_coding_test/05_DFS%26BFS)
 #### 06. [Sorting](https://github.com/JIYUNHYEOK/Coding_Test/tree/main/This_is_coding_test/06_Sorting)
+#### 07. [Binary Search](https://github.com/JIYUNHYEOK/Coding_Test/tree/main/This_is_coding_test/07_Binary%20Search)
