@@ -7,5 +7,5 @@
 - 7576 [토마토](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B7576_solution.py)
 - 1697 [숨바꼭질](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B1697_solution.py)
 - 11724 [연결 요소의 개수](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B11724_solution.py)
-- 14502 [연구소_DFS] (https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B14502_solution_dfs.py)
-- 14502 [연구소_BFS] (https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B14502_solution_bfs.py)
+- 14502 [연구소_DFS](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B14502_solution_dfs.py)
+- 14502 [연구소_BFS](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/BaekJoon/Graph%20Theory/B14502_solution_bfs.py)
