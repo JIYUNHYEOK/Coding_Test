@@ -126,5 +126,5 @@
 ## 2015년
 
 #### 2015 하반기
-1. 바이러스 검사 <백준: 시험 감독>
-2. 2개의 사탕 <백준: 구슬 탈출2>
+- [바이러스 검사](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%EA%B2%80%EC%82%AC.py) [[BOJ 13458 시험감독]](https://www.acmicpc.net/problem/13458)
+- [2개의 사탕](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_2%EA%B0%9C%EC%9D%98%20%EC%82%AC%ED%83%95.py) [[BOJ 13460 구슬 탈출 2]](https://www.acmicpc.net/problem/13460)
