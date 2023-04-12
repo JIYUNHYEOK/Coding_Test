@@ -12,11 +12,11 @@
 
 #### 2022 하반기 오전
 - [싸움땅](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%8B%B8%EC%9B%80%EB%95%85.py)
-- 산타의 선물 공장 (이중 연결 리스트)
+- [산타의 선물 공장](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%82%B0%ED%83%80%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%EA%B3%B5%EC%9E%A5.py)
 
 #### 2022 하반기 오후
 - [코드트리 빵](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC%20%EB%B9%B5.py)
-- 산타의 선물 공장 2 (이중 연결 리스트)
+- [산타의 선물 공장 2](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%82%B0%ED%83%80%EC%9D%98%20%EC%84%A0%EB%AC%BC%EA%B3%B5%EC%9E%A5%202.py)
 
 ----------------------------------------------------------------------------------------
 ## 2021년
