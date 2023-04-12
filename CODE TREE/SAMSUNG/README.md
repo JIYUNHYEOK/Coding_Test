@@ -41,20 +41,20 @@
 ## 2020년
 
 #### 2020 상반기 오전
-1. 2차원 테트리스 (시뮬레이션) <백준: 모노미도미노2>
-2. 술래잡기 체스 (DFS) <백준: 청소년 상어>
+- [2차원 테트리스](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_2%EC%B0%A8%EC%9B%90%20%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4.py) [[BOJ 20061 모노미도미노 2]](https://www.acmicpc.net/problem/20061)
+- [술래잡기 체스](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%88%A0%EB%9E%98%EC%9E%A1%EA%B8%B0%20%EC%B2%B4%EC%8A%A4.py) [[BOJ 19236 청소년 상어]](https://www.acmicpc.net/problem/19236)
 
 #### 2020 상반기 오후
 - [승자독식 모노폴리](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%8A%B9%EC%9E%90%EB%8F%85%EC%8B%9D%20%EB%AA%A8%EB%85%B8%ED%8F%B4%EB%A6%AC.py) [[BOJ 19237 어른 상어]](https://www.acmicpc.net/problem/19237)
-2. 자율주행 전기차 (BFS) <백준: 스타트 택시>
+- [자율주행 전기차](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%A0%84%EA%B8%B0%EC%B0%A8.py)[[BOJ 19238 스타트 택시]](https://www.acmicpc.net/problem/19238)
 
 #### 2020 하반기 오전
-1. 불안한 무빙워크 (시뮬레이션) <백준: 컨베이어 벨트 위의 로봇>
-2. 원자 충돌 (시뮬레이션) <백준: 마법사 상어와 파이어볼>
+- [불안한 무빙워크](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%B6%88%EC%95%88%ED%95%9C%20%EB%AC%B4%EB%B9%99%EC%9B%8C%ED%81%AC.py) [[BOJ 20055 컨베이어 벨트 위의 로봇]](https://www.acmicpc.net/problem/20055)
+- [원자 충돌](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%9B%90%EC%9E%90%20%EC%B6%A9%EB%8F%8C.py) [[BOJ 20056 마법사 상어와 파이어볼]](https://www.acmicpc.net/problem/20056)
 
 #### 2020 하반기 오후
-1. 청소는 즐거워 (배열 돌리기) <백준: 마법사 상어와 토네이도>
-2. 회전하는 빙하 (배열 돌리기) <백준: 마법사 상어와 파이어스톰>
+- [청소는 즐거워](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%B2%AD%EC%86%8C%EB%8A%94%20%EC%A6%90%EA%B1%B0%EC%9B%8C.py) [[BOJ 20057 마법사 상어와 토네이토]](https://www.acmicpc.net/problem/20057)
+- [회전하는 빙하](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%EB%B9%99%ED%95%98.py) [[BOJ 20058 마법사 상어와 파이어스톰]](https://www.acmicpc.net/problem/20058)
 
 ----------------------------------------------------------------------------------------
 ## 2019년
