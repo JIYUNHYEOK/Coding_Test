@@ -22,20 +22,20 @@
 ## 2021년
 
 #### 2021 상반기 오전
-1. 놀이기구 탑승 (시뮬레이션) <백준: 상어초등학교>
-2. 색깔 폭탄 (BFS) <백준: 상어중학교>
+- [놀이기구 탑승](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%20%ED%83%91%EC%8A%B9.py) [[BOJ 21608 상어 초등학교]](https://www.acmicpc.net/problem/21608)
+- [색깔 폭탄](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%83%89%EA%B9%94%20%ED%8F%AD%ED%83%84.py) [[BOJ 21609 상어중학교]](https://www.acmicpc.net/problem/21609)
 
 #### 2021 상반기 오후
-1. 나무 타이쿤 (시뮬레이션) <백준: 마법사 상어와 비바라기>
-2. 미로 타워 디펜스 (시뮬레이션) <백준: 마법사 상어와 블리자드>
+- [나무 타이쿤](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%82%98%EB%AC%B4%20%ED%83%80%EC%9D%B4%EC%BF%A4.py) [[BOJ 21610 마법사 상어와 비바라기]](https://www.acmicpc.net/problem/21610)
+- [미로 타워 디펜스](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%AF%B8%EB%A1%9C%20%ED%83%80%EC%9B%8C%20%EB%94%94%ED%8E%9C%EC%8A%A4.py) [[BOJ 21611 마법사 상어와 블리자드]](https://www.acmicpc.net/problem/21611)
 
 #### 2021 하반기 오전
-1. 정육면체 한번 더 굴리기 (시뮬레이션) <백준: 주사위 굴리기2>
-2. 냉방 시스템 (시뮬레이션) <백준: 온풍기 안녕!>
+- [정육면체 한번 더 굴리기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%ED%95%9C%EB%B2%88%20%EB%8D%94%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.py) [[BOJ 23288 주사위 굴리기 2]](https://www.acmicpc.net/problem/23288)
+- [냉방 시스템](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%83%89%EB%B0%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.py) [[BOJ 23289 온풍기 안녕!]](https://www.acmicpc.net/problem/23289)
 
 #### 2021 하반기 오후
-1. 팩맨 (시뮬레이션, DFS) <백준: 마법사 상어와 복제>
-2. Sam의 피자학교 (시뮬레이션) <백준: 어항정리>
+- [팩맨](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%ED%8C%A9%EB%A7%A8.py) [[BOJ 23290 마법사 상어와 복제]](https://www.acmicpc.net/problem/23290)
+- [Sam의 피자학교](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_Sam%EC%9D%98%20%ED%94%BC%EC%9E%90%ED%95%99%EA%B5%90.py) [[BOJ 23291 어항 정리]](https://www.acmicpc.net/problem/23291)
 
 ----------------------------------------------------------------------------------------
 ## 2020년
