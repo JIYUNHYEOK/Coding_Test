@@ -81,39 +81,38 @@
 ## 2018년
 
 #### 2018 상반기 오전
-1. 이상한 체스 <백준: 감시>
-2. 디버깅 <백준: 사다리 조작>
+- [이상한 체스](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%B2%B4%EC%8A%A4.py) [[BOJ 15683 감시]](https://www.acmicpc.net/problem/15683)
+- [디버깅](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%94%94%EB%B2%84%EA%B9%85.py) [[BOJ 15684 사다리 조작]](https://www.acmicpc.net/problem/15684)
 
 #### 2018 상반기 오후
-1. 드래곤 커브 <백준: 드래곤 커브>
-2. 병원 거리 최소화하기 <백준: 치킨거리>
+- [드래곤 커브](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C.py) [[BOJ 15685 드래곤 커브]](https://www.acmicpc.net/problem/15685)
+- [병원 거리 최소화하기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%B3%91%EC%9B%90%20%EA%B1%B0%EB%A6%AC%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0.py) [[BOJ 15686 치킨 배달]](https://www.acmicpc.net/problem/15686)
 
 #### 2018 하반기 오전
-1. 없음
-2. 토스트 계란들 <백준: 인구 이동>
+- [토스트 계란들](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%ED%86%A0%EC%8A%A4%ED%8A%B8%20%EA%B3%84%EB%9E%80%EB%93%A4.py) [[BOJ 16234 인구 이동]](https://www.acmicpc.net/problem/16234)
 
 #### 2018 하반기 오후
-1. 바이러스 실험 <백준: 나무 재테크>
-2. 전투 로봇 <백준: 아기상어>
+- [바이러스 실험](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%EC%8B%A4%ED%97%98.py) [[BOJ 16235 나무 재테크]](https://www.acmicpc.net/problem/16235)
+- [전투 로봇](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%A0%84%ED%88%AC%20%EB%A1%9C%EB%B4%87.py) [[BOJ 16236 아기 상어]](https://www.acmicpc.net/problem/16236)
 
 ----------------------------------------------------------------------------------------
 ## 2017년
 
 #### 2017 상반기 오전
-1. 테트리스 블럭 안의 합 최대화 하기 <백준: 테트로미노>
-2. 외주 수익 최대화하기 <백준: 퇴사>
+- [테트리스 블럭 안의 합 최대화 하기]() [[BOJ 14500 테트로미노]](https://www.acmicpc.net/problem/14500)
+- [외주 수익 최대화하기]() [[BOJ 14501 퇴사]](https://www.acmicpc.net/problem/14501)
 
 #### 2017 상반기 오후
-1. 자율주행 자동차 <백준: 로봇 청소기>
-2. 방화벽 설치하기 <백준: 연구소>
+- [자율주행 자동차]() [[BOJ 14503 로봇 청소기]](https://www.acmicpc.net/problem/14503)
+- [방화벽 설치하기() [[BOJ 14502 연구소]](https://www.acmicpc.net/problem/14502)
 
 #### 2017 하반기 오전
-1. 조삼모사 <백준: 스타트와 링크>
-2. 보도블럭 <백준: 경사로>
+- [조삼모시]() [[BOJ 14889 스타트와 링크]](https://www.acmicpc.net/problem/14889)
+- [보도블럭]() [[BOJ 14890 경사로]](https://www.acmicpc.net/problem/14890)
 
 #### 2017 하반기 오후
-1. 돌아가는 팔각 의자 <백준: 톱니바퀴>
-2. 연산자 배치하기 <백준: 연산자 배치하기>
+- [돌아가는 팔각 의자]() [[BOJ 14891 톱니바퀴]](https://www.acmicpc.net/problem/14891)
+- [연산자 배치하기]() [[BOJ 14888 연산자 끼워넣기]](https://www.acmicpc.net/problem/14888)
 
 ----------------------------------------------------------------------------------------
 ## 2016년
