@@ -99,20 +99,20 @@
 ## 2017년
 
 #### 2017 상반기 오전
-- [테트리스 블럭 안의 합 최대화 하기]() [[BOJ 14500 테트로미노]](https://www.acmicpc.net/problem/14500)
-- [외주 수익 최대화하기]() [[BOJ 14501 퇴사]](https://www.acmicpc.net/problem/14501)
+- [테트리스 블럭 안의 합 최대화 하기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%20%EB%B8%94%EB%9F%AD%20%EC%95%88%EC%9D%98%20%ED%95%A9%20%EC%B5%9C%EB%8C%80%ED%99%94%20%ED%95%98%EA%B8%B0.py) [[BOJ 14500 테트로미노]](https://www.acmicpc.net/problem/14500)
+- [외주 수익 최대화하기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%99%B8%EC%A3%BC%20%EC%88%98%EC%9D%B5%20%EC%B5%9C%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0.py) [[BOJ 14501 퇴사]](https://www.acmicpc.net/problem/14501)
 
 #### 2017 상반기 오후
-- [자율주행 자동차]() [[BOJ 14503 로봇 청소기]](https://www.acmicpc.net/problem/14503)
-- [방화벽 설치하기]() [[BOJ 14502 연구소]](https://www.acmicpc.net/problem/14502)
+- [자율주행 자동차](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8.py) [[BOJ 14503 로봇 청소기]](https://www.acmicpc.net/problem/14503)
+- [방화벽 설치하기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%B0%A9%ED%99%94%EB%B2%BD%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.py) [[BOJ 14502 연구소]](https://www.acmicpc.net/problem/14502)
 
 #### 2017 하반기 오전
-- [조삼모사]() [[BOJ 14889 스타트와 링크]](https://www.acmicpc.net/problem/14889)
-- [보도블럭]() [[BOJ 14890 경사로]](https://www.acmicpc.net/problem/14890)
+- [조삼모사](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%A1%B0%EC%82%BC%EB%AA%A8%EC%82%AC.py) [[BOJ 14889 스타트와 링크]](https://www.acmicpc.net/problem/14889)
+- [보도블럭](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%B3%B4%EB%8F%84%EB%B8%94%EB%9F%AD.py) [[BOJ 14890 경사로]](https://www.acmicpc.net/problem/14890)
 
 #### 2017 하반기 오후
-- [돌아가는 팔각 의자]() [[BOJ 14891 톱니바퀴]](https://www.acmicpc.net/problem/14891)
-- [연산자 배치하기]() [[BOJ 14888 연산자 끼워넣기]](https://www.acmicpc.net/problem/14888)
+- [돌아가는 팔각 의자](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94%20%ED%8C%94%EA%B0%81%20%EC%9D%98%EC%9E%90.py) [[BOJ 14891 톱니바퀴]](https://www.acmicpc.net/problem/14891)
+- [연산자 배치하기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py) [[BOJ 14888 연산자 끼워넣기]](https://www.acmicpc.net/problem/14888)
 
 ----------------------------------------------------------------------------------------
 ## 2016년
