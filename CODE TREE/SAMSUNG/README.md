@@ -119,8 +119,8 @@
 ## 2016년
 
 #### 2016 하반기
-1. 정육면체 굴리기 <백준: 주사위 굴리기>
-2. 2048 게임 <백준: 2048 게임>
+- [정육면체 굴리기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.py) [[BOJ 14499 주사위 굴리기]](https://www.acmicpc.net/problem/14499)
+- [2048 게임](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_2048%20%EA%B2%8C%EC%9E%84.py) [[BOJ 12100 2048 (Easy)]](https://www.acmicpc.net/problem/12100)
 
 ----------------------------------------------------------------------------------------
 ## 2015년
