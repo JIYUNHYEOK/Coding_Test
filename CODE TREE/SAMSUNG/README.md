@@ -45,7 +45,7 @@
 2. 술래잡기 체스 (DFS) <백준: 청소년 상어>
 
 #### 2020 상반기 오후
-1. 승자독식 모노폴리(시뮬레이션) <백준: 어른 상어>
+- [승자독식 모노폴리](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%8A%B9%EC%9E%90%EB%8F%85%EC%8B%9D%20%EB%AA%A8%EB%85%B8%ED%8F%B4%EB%A6%AC.py) [[BOJ 19237 어른 상어]](https://www.acmicpc.net/problem/19237)
 2. 자율주행 전기차 (BFS) <백준: 스타트 택시>
 
 #### 2020 하반기 오전
