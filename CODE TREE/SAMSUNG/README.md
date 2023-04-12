@@ -3,20 +3,20 @@
 ## 2022년
 
 #### 2022 상반기 오전
-1. 술래잡기 (시뮬레이션)
-2. 예술성 (BFS)
+- [술래잡기](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%E1%84%89%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A2%20%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%80%E1%85%B5.py)
+- [예술성](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%E1%84%8B%E1%85%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%E1%86%BC.py)
 
 #### 2022 상반기 오후
-1. 꼬리잡기놀이 (BFS)
-2. 나무박멸 (BFS)
+- [꼬리잡기놀이](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.py)
+- [나무박멸](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EB%82%98%EB%AC%B4%EB%B0%95%EB%A9%B8.py)
 
 #### 2022 하반기 오전
-1. 싸움땅 (시뮬레이션)
-2. 산타의 선물 공장 (이중 연결 리스트)
+- [싸움땅](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%8B%B8%EC%9B%80%EB%95%85.py)
+- 산타의 선물 공장 (이중 연결 리스트)
 
 #### 2022 하반기 오후
-1. 코드트리 빵 (BFS)
-2. 산타의 선물 공장 2 (이중 연결 리스트)
+- [코드트리 빵](https://github.com/JIYUNHYEOK/Coding_Test/blob/main/CODE%20TREE/SAMSUNG/CT_%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC%20%EB%B9%B5.py)
+- 산타의 선물 공장 2 (이중 연결 리스트)
 
 ----------------------------------------------------------------------------------------
 ## 2021년
