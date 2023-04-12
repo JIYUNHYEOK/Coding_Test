@@ -107,7 +107,7 @@
 - [방화벽 설치하기]() [[BOJ 14502 연구소]](https://www.acmicpc.net/problem/14502)
 
 #### 2017 하반기 오전
-- [조삼모시]() [[BOJ 14889 스타트와 링크]](https://www.acmicpc.net/problem/14889)
+- [조삼모사]() [[BOJ 14889 스타트와 링크]](https://www.acmicpc.net/problem/14889)
 - [보도블럭]() [[BOJ 14890 경사로]](https://www.acmicpc.net/problem/14890)
 
 #### 2017 하반기 오후
